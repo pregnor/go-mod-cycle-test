@@ -1,7 +1,9 @@
 package first
 
-import "fmt"
+import (
+	"github.com/pregnor/go-mod-cycle-test/second"
+)
 
 func First() {
-	fmt.Println("test")
+	second.Second()
 }

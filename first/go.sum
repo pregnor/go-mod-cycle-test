@@ -1,0 +1,3 @@
+github.com/pregnor/go-mod-cycle-test/first v0.0.0-20220509112050-5dcf85a5cb80/go.mod h1:b9IwBSCrhI2RxGyguwWQW+Wv/R6DooarKvth65XnJig=
+github.com/pregnor/go-mod-cycle-test/second v0.0.0-20220509112159-acefdd7b834b h1:6JwJu6U3mVA95INLreR0kwoKtML6vz+HjntN7OyZqIk=
+github.com/pregnor/go-mod-cycle-test/second v0.0.0-20220509112159-acefdd7b834b/go.mod h1:Mz8TKTlsY3HVI5+2zizXuQDJtq9x2Lm7IFVrnMvmsxQ=
